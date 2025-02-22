@@ -9,7 +9,8 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. The
 - Responsive design for mobile and desktop.
 
 ## Live Demo
-You can play the game live here: [TinyHost Link](https://justarpsgame.tiiny.site)
+You can play the game live here: [GitHub Pages Link]()
+
 ## Installation & Setup
 ### 1. Clone the Repository
 ```sh
